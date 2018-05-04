@@ -1,4 +1,0 @@
-﻿  main_prac6.cpp
-c:\users\hugo_\onedrive\documentos\github\hdc_casa\practica1\practica1\practica1\main_prac6.cpp(37): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
-  LINK : no se encontró C:\Users\Hugo_\OneDrive\Documentos\GitHub\HDC_casa\practica1\practica1\Debug\practica1.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
-  practica1.vcxproj -> C:\Users\Hugo_\OneDrive\Documentos\GitHub\HDC_casa\practica1\practica1\Debug\practica1.exe
